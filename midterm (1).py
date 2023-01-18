@@ -1,5 +1,3 @@
-#ส่งไฟล์อีกรอบนึงค่ะ😭
-
 from tkinter import *
 from datetime import datetime
 import requests
